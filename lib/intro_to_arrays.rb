@@ -19,3 +19,8 @@ end
 def last_element(newArray)
   return newArray[-1]
 end
+
+def first_element_with_array_methods(newArray)
+  return first_element(newArray)
+
+end
