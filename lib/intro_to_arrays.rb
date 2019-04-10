@@ -9,11 +9,11 @@ def array_with_two_elements
 end
 
 def first_element(newArray)
-  return newArray.index[0]
+  return newArray[0]
 end
 
 def third_element(newArray)
-  return newArray.index(2)
+  return newArray[2]
 end
 
 def last_element(newArray)
