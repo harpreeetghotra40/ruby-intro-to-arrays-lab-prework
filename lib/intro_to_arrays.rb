@@ -3,7 +3,7 @@ def instantiate_new_array
   return newArray
 end
 
-def my_two_array
+def array_with_two_elements
   newArray = ["make" , "this"]
   return newArray
 end
