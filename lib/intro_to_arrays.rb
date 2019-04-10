@@ -8,11 +8,11 @@ def array_with_two_elements
   return newArray
 end
 
-def first_element(newArray)
+def my_first_element(newArray)
   return newArray.index[0]
 end
 
-def third_element(newArray)
+def my_third_element(newArray)
   return newArray.index(2)
 end
 
