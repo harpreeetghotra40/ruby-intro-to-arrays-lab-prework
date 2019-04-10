@@ -17,5 +17,5 @@ def third_element(newArray)
 end
 
 def last_element(newArray)
-  return newArray.index[-1]
+  return newArray[-1]
 end
