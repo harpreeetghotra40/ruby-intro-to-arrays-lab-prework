@@ -27,3 +27,7 @@ end
 def last_element_with_array_methods(newArray)
   return  last_element(newArray)
 end
+
+def length_of_Array(newArray)
+  return newArray.length
+end
