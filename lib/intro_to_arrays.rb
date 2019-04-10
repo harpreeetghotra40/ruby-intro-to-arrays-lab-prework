@@ -23,3 +23,7 @@ end
 def first_element_with_array_methods(newArray)
   return first_element(newArray)
 end
+
+def last_element_with_array_methods(newArray)
+  return  last_element(newArray)
+end
