@@ -9,5 +9,13 @@ def my_two_array
 end
 
 def first_element(newArray)
-  return newArray.first
+  return newArray.index[0]
+end
+
+def third_element(newArray)
+  return newArray.index(2)
+end
+
+def last_element(newArray)
+  return newArray.index[-1]
 end
